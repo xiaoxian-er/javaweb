@@ -7,8 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 	<form action="check.jsp">
-	姓名:<input  type="text" name="name"><br>
+	姓名:<input  type="text" name="name" ><br>
 	密码:<input type="password" name="pwd"><br>
 	爱好:<br>
 	<input type="checkbox" name="hobby" value="游泳"/> 游泳
